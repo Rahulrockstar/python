@@ -1,4 +1,4 @@
-f=open("covid_19_india.csv","r")
+open("C:\Users\Rahuzz\OneDrive\Pictures")
 dict={}
 for lines in f:
     words=lines.rstrip("\n").split(",")
